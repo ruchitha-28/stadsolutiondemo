@@ -1,9 +1,10 @@
+package day1practice;
 
-public class practice2 {
+public class ruchidemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-   System.out.println("it is a practice1");
+
 	}
 
 }

@@ -1,7 +1,8 @@
-Public class practice
-  {
-    public static void main(String args[])
-  { 
-    System.out.println("it is a practice");
-  }
-  }
+package day1practice;
+
+public class practice {
+	
+	public static void main(String args[]) {
+		System.out.println("it is a practice");
+	}
+}
